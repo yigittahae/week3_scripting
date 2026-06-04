@@ -1,5 +1,6 @@
 #https://freedict.org/freedict-database.json
 try:
+    
     f = open("ayasir.txt", "x")
 except:print("You already have a file named ", f.name ,"try another file name. ")
 
